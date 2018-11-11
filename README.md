@@ -1,1 +1,1 @@
-My Repository for School Work and Projects.
+Repository for my School Work and Projects.
