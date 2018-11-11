@@ -3,3 +3,5 @@ The program then outputs the results back into the same textfile
 To make the program work, just drag the .cpp file and "numbers.txt" to the same location.
 You can edit and change the numbers within the file.
 I hope this helps anyone's understand of how to do this. 
+(I made an example file of what the output should look like)
+If you change the numbers the answers will vary.
