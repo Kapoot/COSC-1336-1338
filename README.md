@@ -1,2 +1,2 @@
 # Programming Fundamentals
- COSC 1337
+ COSC 1337 Projects and more
