@@ -4,6 +4,13 @@
    11-11-2018
  */
 
+
+*************************************************************************************
+Create a program that finds the sum,average, and product of numbers within a text file
+Have the program output the answers into the same text file.
+The orignial numbers of the text file must still be present.
+*************************************************************************************
+
 //Pre-processor directive
 #include <iostream>
 #include <fstream>
