@@ -1,2 +1,3 @@
-A pretty horrible attempt at making a ball bounce across the screen
-but fun nonetheless!
+Ever seen a ball bounce this well? 
+Me neither..
+@aplumly
