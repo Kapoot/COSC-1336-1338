@@ -1,2 +1,2 @@
-# COSC123
+# Programming Fundamentals
  COSC 1337
